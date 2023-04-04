@@ -10,3 +10,12 @@ In order to enter comicdom, an international comics competition, one has to have
 ## Author
 
 - [@johnspyrop](https://www.github.com/johnspyrop)
+
+## Screenshots
+
+Home Page:
+![home_page_1](https://user-images.githubusercontent.com/116667925/229785342-802caa35-3a4c-4932-9832-679fe714397a.png)
+![home_page_2](https://user-images.githubusercontent.com/116667925/229785968-bb273ece-9ea5-4cac-ba19-1ff96d1eb83f.png)
+
+Contact Me Page:
+![contact_me](https://user-images.githubusercontent.com/116667925/229786162-2ef726bf-e741-4d9a-ac2e-17ef068e22f3.png)
